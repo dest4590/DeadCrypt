@@ -1,5 +1,5 @@
 from threading import Thread
-from client import makeauth
+from web.client import makeauth
 import base64, os
 import logging
 
